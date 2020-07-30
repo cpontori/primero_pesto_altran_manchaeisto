@@ -1,0 +1,21 @@
+{
+  "name": "primero_pesto_altran_manchaeisto",
+  "version": "1.0.0",
+  "description": "Mi primer nodo js",
+  "main": "y",
+  "scripts": {
+    "test": "y"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "y"
+  ],
+  "author": "Claudio",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
